@@ -1,0 +1,16 @@
+# 依赖
+node_modules/
+
+# 构建产物
+dist/
+.vite/
+
+# 系统 / 编辑器
+.DS_Store
+*.local
+*.log
+.idea/
+.vscode/
+
+# 工作区元数据（含本地日志，不入库）
+.workbuddy/
